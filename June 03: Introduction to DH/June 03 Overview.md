@@ -1,8 +1,7 @@
 ---
-title: Introduction to DH
+title: Day 1
 layout: default
-parent: Day 1
-nav_order: 1
+nav_order: 2
 ---
 
 # June 03: Introduction to DH
