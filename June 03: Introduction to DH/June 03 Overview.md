@@ -1,5 +1,5 @@
 ---
-title: Introduction to DH
+title: "Day 1: Introduction to DH"
 layout: default
 nav_order: 2
 ---
