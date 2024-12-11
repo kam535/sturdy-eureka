@@ -2,7 +2,7 @@
 title: "List of Projects"
 layout: default
 parent: Day 1
-nav_order: 1
+nav_order: 2
 ---
 
 # Digital Collections, Exhibits, & Directories
