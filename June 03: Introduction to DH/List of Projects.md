@@ -1,7 +1,7 @@
 ---
 title: "List of Projects"
 layout: default
-parent: "Day 1: Introduction to DH"
+parent: Day 1
 nav_order: 1
 ---
 
