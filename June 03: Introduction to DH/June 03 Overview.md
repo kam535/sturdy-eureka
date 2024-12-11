@@ -1,6 +1,6 @@
 ---
 title: Introduction to DH
-layout: page
+layout: default
 nav_order: 2
 ---
 
