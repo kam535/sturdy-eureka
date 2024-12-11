@@ -1,3 +1,10 @@
+---
+title: "List of Projects"
+layout: default
+parent: "Day 1: Introduction to DH"
+nav_order: 1
+---
+
 # Digital Collections, Exhibits, & Directories
 
 ### Large-Team & Funded Collections Projects
