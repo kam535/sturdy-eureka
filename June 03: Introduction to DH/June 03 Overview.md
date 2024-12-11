@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: 
+title: Introduction to DH
+layout: page
 nav_order: 2
 ---
 
