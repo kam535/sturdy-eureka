@@ -2,7 +2,7 @@
 title: Introduction to DH
 layout: default
 parent: Day 1
-nav_order: 2
+nav_order: 1
 ---
 
 # June 03: Introduction to DH
