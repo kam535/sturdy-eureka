@@ -1,3 +1,9 @@
+---
+title: Home
+layout: 
+nav_order: 2
+---
+
 # June 03: Introduction to DH
 
 ## Introductory Assignment (Before the Session)
